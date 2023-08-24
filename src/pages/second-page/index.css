@@ -1,0 +1,45 @@
+.second-page {
+  height: 55rem;
+  width: 100%;
+  position: relative;
+  top: 30rem;
+  right: 60px;
+}
+.vector img {
+  /* margin-left: rem; */
+  margin-top: 5rem;
+}
+.heading {
+  color: #333461;
+  /* padding-left: 12rem; */
+  padding-top: 48px;
+  font-weight: bold;
+  font-size: 60px;
+}
+.second-paragraph{
+    position: relative;
+    color: 0;
+    left: 68rem;
+    top: -6rem;
+    bottom: 0;
+    width: 31rem;
+}
+.card-style{
+  color: #041434;
+  font-weight: bold;
+  font-size: 25px;
+  margin-top: 33px;
+}
+.row{
+  width: inherit;
+}
+.card-text{
+  color: #4A556C;
+  position: relative;
+  top: 20px;
+ margin-bottom: 5rem; 
+}
+.card-body{
+  position: relative;
+  left: 12rem;
+}

@@ -1,0 +1,45 @@
+.thrid-page {
+  height: 40rem;
+  width: 100%;
+  position: relative;
+  top: 37rem;
+}
+.thrid-heading {
+  color: #333461;
+  font-weight: bold;
+  font-size: 60px;
+}
+.card-image {
+  position: relative;
+  left: 34px;
+  top: 14px;
+  width: 70px;
+}
+.star-img{
+    position: relative;
+    right: 34px;
+    top: 76px;
+    width: 100px;
+}
+.c-title{
+    font-weight: bold;
+    color:#333461 ;
+    position: relative;
+    bottom: 30px;
+    right: 150px;
+}
+.card-width{
+  position: relative;
+    max-width: 280px;
+    right:150px;
+    font-size: 25px;
+    
+}
+.left-row{
+  position: relative;
+  top: 30px;
+}
+.more-width{
+  width: 360px;
+  height: 410px;
+}
